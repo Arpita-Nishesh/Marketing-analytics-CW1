@@ -10,7 +10,7 @@ The project includes **clustering analysis** to identify distinct customer segme
 
 ## **Files in this Repository**  
 
-### **1. `Intel_Smartwatch_Report.pdf`**  
+### **1. `Marketing CW 1.pdf`**  
 - The final **case study report** based on the findings from the `analysis.R` script.  
 ### **2. `Excel file`**
 ### **3. `R-code File`**
