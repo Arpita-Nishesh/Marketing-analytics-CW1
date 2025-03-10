@@ -9,18 +9,12 @@ The project includes **clustering analysis** to identify distinct customer segme
 ---
 
 ## **Files in this Repository**  
-### **1. `analysis.R`**  
-- This script performs **data analysis**, including:  
-  - **Data preprocessing**  
-  - **Hierarchical clustering (Ward’s method)**  
-  - **Elbow method for optimal segmentation**  
-  - **Cluster profiling and interpretation**  
-  - **Market segment recommendations**  
 
-### **2. `Intel_Smartwatch_Report.pdf`**  
+### **1. `Intel_Smartwatch_Report.pdf`**  
 - The final **case study report** based on the findings from the `analysis.R` script.  
-
-### **3. `README.md`**  
+### **2. `Excel file`**
+### **3. `R-code File`**
+### **4. `README.md`**  
 - This file provides an **overview** of the project, files, and how to use them.  
 
 ---
