@@ -13,6 +13,7 @@ The project includes **clustering analysis** to identify distinct customer segme
 ### **1. `Marketing Analytics CW 1.pdf`**  
 - The final **case study report** based on the findings from the `analysis.R` script.  
 ### **2. `Excel file`**
+- This is the dataset which was used for the anlysis.
 ### **3. `R-code File`**
 ### **4. `README.md`**  
 - This file provides an **overview** of the project, files, and how to use them.  
